@@ -1,0 +1,1 @@
+postgres://sem8user:2YtsxmtvSKF1DFldv2Z6PaIqHBrUvqnH@dpg-citu9h5iuiedpv648h7g-a.oregon-postgres.render.com/sem8_bku8
