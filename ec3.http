@@ -1,0 +1,18 @@
+
+@server = https://luisangelri-opulent-garbanzo-7g444v44j662p9g6-8080.preview.app.github.dev
+
+@api = {{server}}/api/ec3
+###
+
+GET {{api}}/categorias
+
+
+
+###
+POST {{server}}/categorias
+Content-Type: application/json
+
+{"nombre": "Teclas"}
+
+###
+GET {{server}}/categorias

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.sem10_Ec03.Sem10Ec03ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.572 s - in com.example.sem10_Ec03.Sem10Ec03ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.106 s - in com.example.sem10_Ec03.Sem10Ec03ApplicationTests
