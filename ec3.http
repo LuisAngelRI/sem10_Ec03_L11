@@ -1,6 +1,6 @@
 
 #@server = https://luisangelri-opulent-garbanzo-7g444v44j662p9g6-8080.preview.app.github.dev
-@server = https://semana10-ec03.onrender.com
+@server = https://sem10-ev-03.onrender.com
 
 #Categorias
 
@@ -20,9 +20,9 @@ GET {{server}}/instrumentos
 POST {{server}}/instrumentos
 Content-Type: application/json
 
-{"nombre": "Piano", "categoria": "http://localhost/api/ec3/categorias/2"}
+{"nombre": "Pandereta", "categoria": "http://localhost/api/ec3/categorias/52"}
 ###
-GET {{server}}/instrumentos/3/categoria
+GET {{server}}/instrumentos/1/categoria
 ###
 GET {{server}}/instrumentos?sort=nombre,desc
 
